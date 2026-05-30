@@ -665,3 +665,6 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 ## License
 
 Licensed under the MIT License.
+
+## Contributing
+Contributions are welcome! Please open an issue first for significant changes.
